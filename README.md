@@ -6,6 +6,8 @@ A semester project (PMS) using Java and MySql
 
 -> First you should have these 2 software "Netbeans & XAMPP" to run this project.
 
+-> Now download the .rar file above (all files are in .rar folder no need to download the readme.java file).
+
 -> Now start XAMPP and run Apache with MySql.
 
 -> Now go to web http://localhost/phpmyadmin and then create a database name dbms (i dont remember that what to name the DB but if dbms doesn't works so go to the source package then dao folder then in "connection provider" file in which you can see what to name the database) after creating database in phpmyadmin follow next step.
